@@ -4,7 +4,7 @@ Small Python CLI for downloading REST device metadata and time-series exports.
 
 This repository was built on top of the [`ape-examples`](https://github.com/archipelagos-labs-com/ape-examples) project and adapts that work into a focused command-line data acquisition workflow.
 
-## What It Does
+## Features
 
 - Lists accessible devices
 - Lists accessible device profiles
@@ -18,12 +18,6 @@ This repository was built on top of the [`ape-examples`](https://github.com/arch
 - Network access to your REST endpoints
 - A valid username and API key, and a password if your environment requires it
 
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Credentials Setup
 
