@@ -15,6 +15,7 @@ This repository was built on top of the [`ape-examples`](https://github.com/arch
 ## Requirements
 
 - Python 3.10+
+- Install packages in requirements.txt
 - Network access to your REST endpoints
 - A valid username and API key, and a password if your environment requires it
 
